@@ -14,6 +14,17 @@ The Password Generator is a web-based tool designed to create strong, random pas
 + Tailwind: For styling the app.
 + JavaScript: For adding functionality to the app.
 
+### _Installation_
+
+To run the Counter App locally, follow these steps:
+1. **Clone the repository:**
+> [!TIP]
+> Code: git clone https://github.com/tripurari2004/HTML-CSS-JS-Projects.git
+
+2. **Navigate to the Counter App directory:**
+> [!TIP]
+> Code: cd HTML-CSS-JS-Projects/Password App
+
 ### _Usage_
 1. Open the Password Generator in your web browser.
 2. Configure your password settings:
