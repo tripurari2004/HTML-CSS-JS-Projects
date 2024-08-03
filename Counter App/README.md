@@ -31,6 +31,6 @@ You can simply double-click the index.html file, or use a local web server for a
 ### Usage
 1. Open the Counter App in your web browser.
 2. Use the following buttons to interact with the counter:
-   + Increment(+): Increases the counter value by 1.
-   + Decrement(-): Decreases the counter value by 1.
+   + **Increment(+):** Increases the counter value by 1.
+   + **Decrement(-):** Decreases the counter value by 1.
 3. Observe the updated counter value on the screen.
