@@ -13,7 +13,7 @@ A weather application built using HTML, CSS, and JavaScript. This app fetches re
 
 ### _Technologies_ _Used_
 + **HTML:** For structuring the app.
-+ **Tailwind:** For styling the app.
++ **CSS:** For styling the app.
 + **JavaScript:** For adding functionality to the app.
 + **Weather API:** Fetches live weather data (OpenWeatherMap API)
 
