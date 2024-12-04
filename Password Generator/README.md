@@ -21,9 +21,17 @@ To run the Counter App locally, follow these steps:
 > [!TIP]
 > Code: git clone https://github.com/tripurari2004/HTML-CSS-JS-Projects.git
 
-2. **Navigate to the Counter App directory:**
+2. **Navigate to the Password Generator App directory:**
 > [!TIP]
 > Code: cd HTML-CSS-JS-Projects/Password App
+
+3. **Download Node Module Folder**
+> [!TIP]
+> Code: npm install
+
+4. **Start local server**
+> [!TIP]
+> Code: npm start
 
 ### _Usage_
 1. Open the Password Generator in your web browser.
