@@ -24,7 +24,7 @@ To run the Counter App locally, follow these steps:
 > [!TIP]
 > Code: git clone https://github.com/tripurari2004/HTML-CSS-JS-Projects.git
 
-2. **Navigate to the Counter App directory:**
+2. **Navigate to the Todo App directory:**
 > [!TIP]
 > Code: cd HTML-CSS-JS-Projects/Todo App
 
