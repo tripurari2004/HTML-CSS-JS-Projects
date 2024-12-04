@@ -28,14 +28,6 @@ To run the Counter App locally, follow these steps:
 > [!TIP]
 > Code: cd HTML-CSS-JS-Projects/Todo App
 
-3. **Download Node Module Folder**
-> [!TIP]
-> Code: npm install
-
-4. **Start local server**
-> [!TIP]
-> Code: npm start
-
 ### Usage
 1. Open the application in your browser.
 2. Use the input field to add a new task.
