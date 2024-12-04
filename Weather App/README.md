@@ -28,13 +28,6 @@ To run the Counter App locally, follow these steps:
 > [!TIP]
 > Code: cd HTML-CSS-JS-Projects/Weather App
 
-3. **Download Node Module Folder**
-> [!TIP]
-> Code: npm install
-
-4. **Start local server**
-> [!TIP]
-> Code: npm start
 
 ### Usage
 1. Enter the name of a city in the search bar.
