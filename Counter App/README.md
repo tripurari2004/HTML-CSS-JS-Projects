@@ -25,11 +25,11 @@ To run the Counter App locally, follow these steps:
 > [!TIP]
 > Code: cd HTML-CSS-JS-Projects/Counter App
 
-4. **Download Node Module Folder**
+3. **Download Node Module Folder**
 > [!TIP]
 > Code: npm install
 
-4. **Download Node Module Folder**
+4. **Start local server**
 > [!TIP]
 > Code: npm start
 
