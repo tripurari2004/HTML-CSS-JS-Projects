@@ -25,13 +25,6 @@ To run the Counter App locally, follow these steps:
 > [!TIP]
 > Code: cd HTML-CSS-JS-Projects/Share App
 
-3. **Download Node Module Folder**
-> [!TIP]
-> Code: npm install
-
-4. **Start local server**
-> [!TIP]
-> Code: npm start
 
 ### Usage
 1. Click on the Share button to open the modal.
